@@ -1,6 +1,6 @@
 ### Robotics and Machine Learning
 - Currently working on low level machine learning library
-- Currently learning Unity-Flutter integration
+- Currently learning Flutter development
 - How to reach me: michelettiluka@gmail.com
 <!--<a href="http://mathorgadaorc.ddns.net">
   Site
