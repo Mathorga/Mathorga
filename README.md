@@ -1,7 +1,9 @@
 ### Robotics and Machine Learning
-- Currently working on low level machine learning library
-- Currently learning Flutter development
+- Love low level programming (C, C++) and GPGPU (mainly CUDA)
+- Currently working on Flutter projects
+- Currently learning Unity C# development
 - How to reach me: michelettiluka@gmail.com
+- If you reach me, please tell me where you found my contact, so that I know if I can trust you
 <!--<a href="http://mathorgadaorc.ddns.net">
   Site
 </a>-->
