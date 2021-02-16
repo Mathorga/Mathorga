@@ -1,4 +1,4 @@
-### Robotics and Machine Learning
+### Robotics and Artificial Life
 - Love low level programming (C, C++) and GPGPU (mainly CUDA)
 - Currently working on Flutter projects
 - Currently learning Unity C# development
