@@ -1,6 +1,6 @@
 ### Robotics and Artificial Life
 - Love low level programming (C, C++) and GPGPU (mainly CUDA)
-- Currently working on Flutter and Unity C# projects
+- Currently working on spiking neural network ideas
 - How to reach me: michelettiluka@gmail.com
 - If you do reach me, please tell me where you found my contact, so that I know I can trust you
 <!--<a href="http://mathorgadaorc.ddns.net">
