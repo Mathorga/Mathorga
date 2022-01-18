@@ -1,4 +1,4 @@
-## Robotics and Artificial Life
+# Robotics and Artificial Life
 - Love low level programming (C, C++) and GPGPU (mainly CUDA)
 - Currently working on spiking neural network ideas
 - How to reach me: michelettiluka@gmail.com
@@ -7,18 +7,18 @@
   Site
 </a>-->
 
-### Languages
+## Languages
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
-### Frameworks/Engines
+## Frameworks/Engines
 <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
 
-### Environments
+## Environments
 <a><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 
 <!--
