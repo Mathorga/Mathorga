@@ -15,6 +15,8 @@
 ![Python Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
 ## Frameworks/Libraries
+![Raylib Library](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=FFFFFF)
+<!-- ![PyTorch Library](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF) -->
 ![Flutter Framework](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
 ![CUDA Library](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
 ![OpenCV Library](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
