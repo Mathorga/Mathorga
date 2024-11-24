@@ -22,7 +22,4 @@
 ![OpenGL Library](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
 <!-- ![PyTorch Library](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF) -->
 
-## Environments
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF)
-
 <!-- Badges are generated using https://shields.io/, via its static badge API, which in turn uses https://simpleicons.org/ in order to display logos -->
