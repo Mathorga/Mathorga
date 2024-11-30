@@ -1,6 +1,6 @@
 # Robotics, Artificial Life and Games
 - Love low level programming (C, C++) and GPGPU (mainly CUDA)
-- Currently working on spiking neural network ideas
+- Currently working on spiking neural network ideas and games
 - How to reach me: michelettiluka@gmail.com
 - If you do reach me, please tell me where you found my contact, so that I know I can trust you
 
