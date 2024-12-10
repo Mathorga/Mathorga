@@ -13,6 +13,7 @@
 ![Java Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![Dart Language](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF)
 ![Python Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Magik Language](https://img.shields.io/badge/Magik-0870D8?style=for-the-badge&logo=generalelectric&logoColor=FFFFFF)
 
 ## Frameworks/Libraries
 ![Raylib Library](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=FFFFFF)
