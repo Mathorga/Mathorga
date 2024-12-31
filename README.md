@@ -1,7 +1,5 @@
 # Robotics, Artificial Life and Games
-- Love low level programming (C, C++) and GPGPU (mainly CUDA)
-- How to reach me: michelettiluka@gmail.com
-- If you do reach me, please tell me where you found my contact, so that I know I can trust you
+Love low level programming (C, C++) and GPGPU (mainly CUDA)
 
 ## Current work
 - Spiking neural network ideas
@@ -30,5 +28,11 @@
 ![OpenCV Library](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
 ![OpenGL Library](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
 <!-- ![PyTorch Library](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF) -->
+
+## How to reach me
+- eMail: michelettiluka@gmail.com
+- Here on GitHub
+
+If you do reach me, please tell me where you found my contact, so that I know I can trust you
 
 <!-- Badges are generated using https://shields.io/, via its static badge API, which in turn uses https://simpleicons.org/ in order to display logos -->
