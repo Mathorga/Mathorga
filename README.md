@@ -5,7 +5,7 @@ Love low level programming (C, C++) and GPGPU (mainly CUDA)
 - Spiking neural network ideas
 - Videogames
 
-## Currently studying
+## Currently learning
 - Reinforcement Learning
 - Pytorch
 - Autodesk Fusion
