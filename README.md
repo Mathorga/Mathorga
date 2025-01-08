@@ -10,7 +10,7 @@ Love low level programming (C, C++) and GPGPU (mainly CUDA)
 - Pytorch
 - Autodesk Fusion
 
-# Some of my public projects (published on third party platforms)
+## Some of my public projects (published on third party platforms)
 - [Amonite the game library](https://pypi.org/project/amonite/)
 
 ## Languages
