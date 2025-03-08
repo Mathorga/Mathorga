@@ -4,6 +4,7 @@ Love low level programming (C, C++) and GPGPU (mainly CUDA)
 ## Current work
 - Spiking neural network ideas
 - Videogames
+- Flutter apps
 
 ## Currently learning
 - Reinforcement Learning
