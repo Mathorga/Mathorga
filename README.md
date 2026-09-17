@@ -14,7 +14,7 @@ Love low level programming (C, C++) and GPGPU (mainly CUDA)
 - [Shelfless (Android)](https://play.google.com/store/apps/details?id=mathorga.app.shelfless)
 - [MyWay (Android)](https://play.google.com/store/apps/details?id=mathorga.app.myway&pli=1)
 - [Crusties (Itch.io)](https://mathorga.itch.io/crusties)
-- [Crusties (direct link)](https://itch.io/embed-upload/19274567?color=101720)
+- [Crusties (direct link)](https://itch.io/embed-upload/19278145?color=101720)
 
 ## Languages
 ![C language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
